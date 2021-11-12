@@ -4,7 +4,7 @@
 <h3> :four_leaf_clover: About </h3>
   
 <p>Hi There! I want to be a full stack engineer.</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer. /p> 
+<p>I'm a persistent person, who study hard day and night for be a good developer.</p> 
 
 #
 <h3> :hatching_chick: Career </h3>
