@@ -11,7 +11,7 @@
 Software Engineer in Recommender System
 
 <h3> :carrot: Interest </h3>
-Algorithm
+Algorithm <br>
 Deep / Mechine / Reinforcement Learing
 
 #
