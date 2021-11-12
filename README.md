@@ -17,9 +17,9 @@ Deep / Mechine / Reinforcement Learing
 #
 <h3> 🔥 Tech Stack </h3>
 <h4> Backend </h4>
-<p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/c++-white?style=flat&logo=cplusplus&logoColor=blue"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/scala-white?style=flat&logo=scala&logoColor=red"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=blue"/></p>
+<p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/c++-gray?style=flat&logo=cplusplus&logoColor=blue"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/scala-white?style=flat&logo=scala&logoColor=red"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=blue"/></p>
 
-<p><img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-pink?style=flat&logo=mongodb&logoColor=764ABC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redis-0769AD?style=flat&logo=redis&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Rocksdb-pink?style=flat&logo=rocksdb&logoColor=764ABC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kafka-0769AD?style=flat&logo=kafka&logoColor=black"/></p>
+<p><img src="https://img.shields.io/badge/MySQL-gray?style=flat&logo=MySQL&logoColor=blue"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=green"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redis-0769AD?style=flat&logo=redis&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Rocksdb-pink?style=flat&logo=rocksdb&logoColor=764ABC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kafka-0769AD?style=flat&logo=kafka&logoColor=black"/></p>
   
 <p><img src="https://img.shields.io/badge/Kubernetes-0769AD?style=flat&logo=kubernetes&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker&logoColor=blue"/></p>
   
