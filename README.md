@@ -12,7 +12,7 @@ Software Engineer in Recommender System
 
 <h3> :carrot: Interest </h3>
 Algorithm <br>
-Deep / Mechine / Reinforcement Learing
+Deep / Machine / Reinforcement Learing
 
 #
 <h3> 🔥 Tech Stack </h3>
